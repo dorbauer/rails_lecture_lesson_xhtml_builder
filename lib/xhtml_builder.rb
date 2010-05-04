@@ -25,9 +25,5 @@ class XHTMLBuilder
     end
   end
   
-  def respond_to?(methode_name)
-    true
-  end
-  
 end
 
